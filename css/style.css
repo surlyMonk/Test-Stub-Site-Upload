@@ -3,6 +3,10 @@ body {
     font-family: sans-serif;
 }
 
+h2 {
+    font-size: 1rem;
+}
+
 #home {
     background-color: #f5eaa4;
 }
